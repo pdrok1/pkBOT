@@ -4,6 +4,7 @@
   "description": "Packages para o bot do discord",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "testar"
   },
   "author": "Pedrão",
