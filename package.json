@@ -1,0 +1,14 @@
+{
+  "name": "safekeeper",
+  "version": "1.0.0",
+  "description": "Packages para o bot do discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "testar"
+  },
+  "author": "Pedrão",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
